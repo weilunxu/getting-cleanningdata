@@ -1,6 +1,6 @@
 Getting and Cleaning Data Project
 
-Heather Wade
+Weilun Xu
 
 Description
 
